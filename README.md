@@ -1,6 +1,6 @@
 # LifeLedger
 
-A blockchain based appllication that holds the data and identity of users securely for hassle-free verification at institutes like banks, colleges and others.
+A blockchain based application that holds the data and identity of users securely for hassle-free verification at institutes like banks, colleges and others.
 
 The blockchain can be verified by a bitcoin-like consensus rule and the data is verified using the **proof of existence** protocol.
 
